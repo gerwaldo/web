@@ -1,2 +1,2 @@
-# : austria :
+# :austria:
 # GitHub pages :rocket:
