@@ -1,4 +1,3 @@
-# GitHub pages :rocket:
+GitHub pages rock
 
-
-## easy, free, templates/themes, customized domain
+This text has been added for demo purposes
