@@ -1,4 +1,4 @@
 # GitHub pages :rocket:
 
 
-## easy, free, templates/themes for free
+## easy, free, templates/themes, customized domain
